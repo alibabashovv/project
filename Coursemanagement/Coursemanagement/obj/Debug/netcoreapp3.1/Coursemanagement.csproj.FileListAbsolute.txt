@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Coursemanagement\Coursemanagement\bin\Debug\netcoreapp3.1\Coursemanagement.exe
+C:\Users\Lenovo\source\repos\Coursemanagement\Coursemanagement\bin\Debug\netcoreapp3.1\Coursemanagement.deps.json
+C:\Users\Lenovo\source\repos\Coursemanagement\Coursemanagement\bin\Debug\netcoreapp3.1\Coursemanagement.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Coursemanagement\Coursemanagement\bin\Debug\netcoreapp3.1\Coursemanagement.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Coursemanagement\Coursemanagement\bin\Debug\netcoreapp3.1\Coursemanagement.dll
+C:\Users\Lenovo\source\repos\Coursemanagement\Coursemanagement\bin\Debug\netcoreapp3.1\Coursemanagement.pdb
+C:\Users\Lenovo\source\repos\Coursemanagement\Coursemanagement\obj\Debug\netcoreapp3.1\Coursemanagement.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Coursemanagement\Coursemanagement\obj\Debug\netcoreapp3.1\Coursemanagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Coursemanagement\Coursemanagement\obj\Debug\netcoreapp3.1\Coursemanagement.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Coursemanagement\Coursemanagement\obj\Debug\netcoreapp3.1\Coursemanagement.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Coursemanagement\Coursemanagement\obj\Debug\netcoreapp3.1\Coursemanagement.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Coursemanagement\Coursemanagement\obj\Debug\netcoreapp3.1\Coursemanagement.dll
+C:\Users\Lenovo\source\repos\Coursemanagement\Coursemanagement\obj\Debug\netcoreapp3.1\Coursemanagement.pdb
+C:\Users\Lenovo\source\repos\Coursemanagement\Coursemanagement\obj\Debug\netcoreapp3.1\Coursemanagement.genruntimeconfig.cache
